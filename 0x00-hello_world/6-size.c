@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - print different sizes of different data types 
-*Return: like float, int, double and char
+*main - print different sizes of different data types
+*Like int and float
+*Return: And provide the ouptut
 */
 int main(void)
 {
