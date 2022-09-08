@@ -7,6 +7,7 @@
 */
 int main(void)
 {
+	/*This is the body which contains the code block of main*/
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
