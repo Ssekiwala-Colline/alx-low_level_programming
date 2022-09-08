@@ -7,8 +7,7 @@
    *printf prints a long output with values of variables
    */
 int main(void)
-{	
-	/*The code block for the main function and it has to return an int like 0*/
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
