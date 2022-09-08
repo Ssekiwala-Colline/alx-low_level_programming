@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o intel
+gcc -S $CFILE > main.s 
