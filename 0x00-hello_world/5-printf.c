@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-  *Printf prints an output with values of variables
-  *like \n, \d
+  *main - Printf prints an output with values of variables
+  *Return: like \n, \d
   */
 int main(void)
 {
