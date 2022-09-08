@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*main - print different sizes of different data types 
+ *main - print different sizes of different data types 
 *Return: like float, int, double and char
 */
 int main(void)
