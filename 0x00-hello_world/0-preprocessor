@@ -1,3 +1,2 @@
 #!/bin/bash
-export CFILE=main.c
 echo $CFILE > c
