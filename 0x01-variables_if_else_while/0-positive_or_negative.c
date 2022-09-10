@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*betty style doc for function maingoes here*/
+/**
+*main - The code for the logical loop using
+*Return: using for, while and do while
+*/
 int main(void)
 {
 	int n;
