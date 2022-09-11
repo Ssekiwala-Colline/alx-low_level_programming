@@ -7,6 +7,7 @@
 int main(void)
 {
 	int k;
+
 	char j;
 
 	for (k = '0'; k <= '9'; k++)
