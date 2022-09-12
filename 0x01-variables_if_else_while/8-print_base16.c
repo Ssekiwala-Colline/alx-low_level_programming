@@ -2,12 +2,11 @@
 
 /**
 *main - The program that prints 
-*Return:the numbers of base 16 in lowercase
+*Return: the numbers of base 16 in lowercase
 */
 int main(void)
 {
 	int k;
-
 	char j;
 
 	for (k = '0'; k <= '9'; k++)
