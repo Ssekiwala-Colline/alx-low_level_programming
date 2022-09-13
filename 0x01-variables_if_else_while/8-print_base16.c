@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - The program that prints 
-*Return: the numbers of base 16 in lowercase
+*main - The program prints all the numbers of
+*Return: base 16 followed by a new line
 */
 int main(void)
 {
@@ -17,6 +17,8 @@ int main(void)
 	{
 		putchar(j);
 	}
+
 	putchar('\n');
+
 	return (0);
 }
