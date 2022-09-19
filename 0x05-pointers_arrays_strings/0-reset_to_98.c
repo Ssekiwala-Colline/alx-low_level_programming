@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*main - Pointer to int
+*reset_to_98 - Pointer to int
 *@n: parameter
 *Return: nothing
 */
