@@ -2,7 +2,7 @@
 
 /**
 *Pointer to int
-*
+*@n: parameter
 *Return: Always 0
 */
 
