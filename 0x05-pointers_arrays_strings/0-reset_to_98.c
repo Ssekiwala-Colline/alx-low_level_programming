@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*main - Takes the pointer to an int as a parameter
+*Pointer to int
 *
 *Return: Always 0
 */
