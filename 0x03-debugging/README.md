@@ -1,1 +1,1 @@
-The readme
+Manual debugging techniques in C language
