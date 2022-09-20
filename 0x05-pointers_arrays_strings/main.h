@@ -3,6 +3,7 @@
 #define MAIN_H
 
 #include <stdio.h>
+void _putchar(char c);
 
 void swap_int(int *a, int *b);
 
