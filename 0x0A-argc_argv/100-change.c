@@ -38,6 +38,11 @@ int main(int argc, char *argv[])
 			cents -= 5;
 			continue;
 		}
+		if ((cents - 2) >= 0)
+		{
+			cents -= 2;
+			continue;
+		}
 		cents--;
 	}
 	printf("%d\n", coins);
