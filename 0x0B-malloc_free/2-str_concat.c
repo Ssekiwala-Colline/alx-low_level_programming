@@ -15,9 +15,9 @@ char *str_concat(char *s1, char *s2)
 	int index, concat_index = 0, len = 0;
 
 	if (s1 == NULL)
-		s1 = "";
+		s1 = " ";
 	if (s2 == NULL)
-		s2 = "";
+		s2 = " ";
 
 	for (index = 0; s1[index]; index++)
 		concat_str[concat_index++] = s1[index];
